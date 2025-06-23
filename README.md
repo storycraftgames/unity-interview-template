@@ -36,6 +36,7 @@ Everything else is up to you!
 - **Fire projectiles** toward the cursor / aim direction.
 - **Damage & destroy** enemies on hit.
 - **Responsive controls** no perceptible input lag.
+- **Follow camera** the camera follows the player as they move.
 - **Maintainable code**: clear separation of concerns, single-purpose classes.
 
 ### Polish & Feel (choose what best showcases you)
