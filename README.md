@@ -35,9 +35,7 @@ Everything else is up to you!
 ### Minimum Functional Requirements
 - **Fire projectiles** toward the cursor / aim direction.
 - **Damage & destroy** enemies on hit.
-- **Responsive controls** no perceptible input lag.
 - **Follow camera** the camera follows the player as they move.
-- **Maintainable code**: clear separation of concerns, single-purpose classes.
 
 ### Polish & Feel (choose what best showcases you)
 - What kind of things do you want to add to make things feel juicy and good?
